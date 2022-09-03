@@ -8,7 +8,7 @@ scikit-learn(1.0.2)\
 pandas(1.3.5)\
 matplotlib(3.5.2)
 # Dataset
-The dataset includes positive and negative examples with a window size of 33. 
+The dataset includes positive and negative examples with a window size of 33， and various feature representations obtained after the dataset is divided.
 # Model
 The best model of different feature can be downloaded in model directory, where best_modelCTDC.h5, best_modelEGAAC+APAAC.h5 are the best model of CTDC, the combination of EGAAC and APAAC. The model.part1-4.rar should be unzip before used, and it's used for embedding method.  
 # Contact
