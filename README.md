@@ -8,6 +8,6 @@ scikit-learn(1.0.2)\
 pandas(1.3.5)\
 matplotlib(3.5.2)
 # Dataset
-The dataset includes positive and negative examples with a window size of 33.
+The dataset includes positive and negative examples with a window size of 33. 
 # Model
-The best model can be download
+The best model of different feature can be downloaded.
